@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://anchoredcoffee.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://anchoredcoffee.com/collections/subscriptions.atom"/>
+  <title>Anchored Coffee</title>
+  <updated>2020-08-20T14:33:20-04:00</updated>
+  <author>
+    <name>Anchored Coffee</name>
+  </author>
+  <entry>
+    <id>https://anchoredcoffee.com/products/5632160596118</id>
+    <published>2020-08-20T14:33:20-04:00</published>
+    <updated>2020-08-20T14:33:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/roasters-choice-filter"/>
+    <title>Dealers Choice Filter</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/dealers-choice-filter.jpg?v=1598039639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            20.00 - 120.00
+            <a href="https://anchoredcoffee.com/products/roasters-choice-filter">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">A selection of the latest and greatest beans on offer by the anchored crew.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Coffee-Sub</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5632160596118</id>
+      <title>12oz</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5632160596118</id>
+      <title>5lb</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/5632160235670</id>
+    <published>2020-08-20T14:33:07-04:00</published>
+    <updated>2020-08-20T14:33:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/dealers-choice-espress"/>
+    <title>Dealers Choice Espresso</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/dealers-choice-espresso.jpg?v=1598039689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            20.00 - 120.00
+            <a href="https://anchoredcoffee.com/products/dealers-choice-espress">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>A selection of the latest and greatest beans on offer by the anchored crew.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Coffee-Sub</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5632160235670</id>
+      <title>12oz</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5632160235670</id>
+      <title>5lb</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/5628473049238</id>
+    <published>2020-08-19T08:29:02-04:00</published>
+    <updated>2020-08-19T08:29:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/figurehead-filter"/>
+    <title>Figurehead Filter</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/FIGUREHEAD-NEW_1.jpg?v=1597840191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            19.00 - 104.00
+            <a href="https://anchoredcoffee.com/products/figurehead-filter">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>A drip coffee dream bean. Lighthearted yet grounded, this blend offers up high levels of crush-ability. Beautifully balanced and low in acidity, Figurehead is the coffee your coffee wants to drink.</span><br></p>
+<meta charset="utf-8">
+<p class=""><strong>PROCESS: </strong>WASHED<br><strong>REGION: </strong> NUEVA, SEGOVIA<br><strong>FARMER: </strong>SMALL SCALE FARMERS<br><strong>VARIETALS: </strong>CATURRA, BOURBON, RED CATUAI<br><strong>ALTITUDE: </strong>1150 - 1700 MASL</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blend</s:tag>
+    <s:tag>Coffee-Sub</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5628473049238</id>
+      <title>12oz</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5628473049238</id>
+      <title>5lbs</title>
+      <s:price currency="CAD">104.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/5628458958998</id>
+    <published>2020-08-19T08:20:03-04:00</published>
+    <updated>2020-08-19T08:20:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/colombia-el-aguacate-decaf"/>
+    <title>Colombia, El Aguacate Decaf</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/COLOMBIA-EL-AGUACATE-DECAF.jpg?v=1597839604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            20.00 - 110.00
+            <a href="https://anchoredcoffee.com/products/colombia-el-aguacate-decaf">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This isn’t just another decaf. Close your eyes, take a sip and enjoy. We don’t think that you have to sacrifice quality and personality in sipping the decaffeinated stuff.</span></p>
+<meta charset="utf-8">
+<p class=""><strong>TASTING NOTES: </strong>MILK CHOCOLATE, ORANGE BLOSSOM, BLACK CHERRY<br><strong>PROCESS</strong>: SWISS WATER<br><strong>REGION:</strong> SANDONA, NARINO<br><strong>FARMER:</strong> GREGORIO ARNULFO BOTINA<br><strong>VARIETALS:</strong> CATURRA, COLOMBIA, CASTILLO<br><strong>ALTITUDE:</strong> 1700-2000 MASL</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee-Sub</s:tag>
+    <s:tag>Decaf</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5628458958998</id>
+      <title>12oz</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5628458958998</id>
+      <title>5lbs</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/5628395913366</id>
+    <published>2020-08-19T07:45:53-04:00</published>
+    <updated>2020-08-19T07:45:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/two-if-by-sea-blend"/>
+    <title>Two if by Sea Blend</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/SPECIAL_BLEND_LABEL.jpg?v=1597837566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            20.00 - 98.00
+            <a href="https://anchoredcoffee.com/products/two-if-by-sea-blend">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>REGION:</strong> 50% NICARAGUAN <br><strong>VARIETALS:</strong> CATURRA, BOURBON <br><strong>REGION:</strong> 50% ETHIOPIAN <br><strong>VARIETALS:</strong> ETHIOPIAN LANDRACES</p>
+<p>Special blend for <a href="https://www.twoifbysea.cafe" target="_blank" rel="noopener noreferrer">Two If By Sea Cafe</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blend</s:tag>
+    <s:tag>Coffee-Sub</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5628395913366</id>
+      <title>12oz</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5628395913366</id>
+      <title>5lbs</title>
+      <s:price currency="CAD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/5628375990422</id>
+    <published>2020-08-19T07:31:44-04:00</published>
+    <updated>2020-08-19T07:31:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/hearts-out-initiative"/>
+    <title>Hearts Out Initiative</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/Hearts_out.jpg?v=1597944585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product-price"></div>
+<div class="ProductItem-details-excerpt" data-content-field="excerpt">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<p>The #heartsoutinitiative is a fundraising platform to raise money for black and indigenous led organizations in communities across Canada. Each heart is hand cut from our labels with the goal of creating a sustainable way to give back through our partnerships with the cafes we supply.</p>
+<p>$5.00 from each bag sold will go to a black or indigenous led organization of the cafe's choice. We plan to continue and grow the #heartsoutinitiative to become as widespread as possible! This is a small step in stepping up and giving back. The coffee in the hearts out bag is a medium roast blend of Nicaraguan and Guatemalan beans. Sweet, balanced, delicious and full of love.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blend</s:tag>
+    <s:tag>Coffee-Sub</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5628375990422</id>
+      <title>12oz</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/5626918961302</id>
+    <published>2020-08-18T18:03:22-04:00</published>
+    <updated>2020-08-18T18:03:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/buzz-lite"/>
+    <title>Buzz Lite</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/BUZZ-LITE.jpg?v=1597788176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            20.00 - 110.00
+            <a href="https://anchoredcoffee.com/products/buzz-lite">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product-price"></div>
+<div data-content-field="excerpt" class="ProductItem-details-excerpt">
+<meta charset="utf-8">
+<p class="">A semi-caffeinated blend designed for full coffee enjoyment with a micro-dose caffeine effect.</p>
+<p class=""><strong>TASTING NOTES: </strong>BLACK CHERRY, DARK CHOCOLATE, HONEY<br><strong>ORIGINS: </strong>70% COLOMBIAN SWISS WATER DECAF<br><strong>VARIETALS: </strong>CATURRA, CASTILLO<br><strong>ORIGINS: </strong>30% NICARAGUAN WASHED<br><strong>VARIETALS: </strong>CATURRA, BOURBON<br><strong>PRODUCERS: </strong>SMALL SCALE PRODUCERS</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blend</s:tag>
+    <s:tag>Coffee-Sub</s:tag>
+    <s:tag>Decaf</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5626918961302</id>
+      <title>12oz</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5626918961302</id>
+      <title>5lbs</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/5626907263126</id>
+    <published>2020-08-18T17:55:22-04:00</published>
+    <updated>2020-08-18T17:55:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/matty-mathesons-rink-drink"/>
+    <title>Matty Matheson&apos;s Rink Drink</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/Matty-Rink-Drink.jpg?v=1597787755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product-price"></div>
+<div class="ProductItem-details-excerpt" data-content-field="excerpt">
+<meta charset="utf-8">
+<p class=""><span>"I have never been a coffee snob, but I've grown to love a good cup of coffee. Rink Drink is a 50/50 blend of Nicaraguan and Guatemalan beans that reminds me of the coffee I used to sip from my grampy's cup watching junior B hockey in Fredericton, NB. Rink Drink is the coffee for any type of morning. Its for the get up and go mornings. The I’m fucked from last night mornings. Its the coffee you make for your partner. A coffee your children will grow to love in years to come. This is the coffee that started from a memory of love. RINK DRINK is here to get you where you were meant to be" </span><br></p>
+<p class=""> - RINK DRINK is brought to you by the friendship of Dean Petty and Matty Matheson and they’re love for a good cup of coffee.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee-Sub</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5626907263126</id>
+      <title>12oz</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/5607558906006</id>
+    <published>2020-08-13T09:05:02-04:00</published>
+    <updated>2020-08-13T09:05:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/nighthawk"/>
+    <title>Nighthawk</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/NIGHTHAWK-NEW.jpg?v=1597323254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            19.00 - 104.00
+            <a href="https://anchoredcoffee.com/products/nighthawk">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product-price"></div>
+<div class="ProductItem-details-excerpt" data-content-field="excerpt">
+<meta charset="utf-8">
+<p class=""><span>Spread your wings and soar with this delicious dark roast. With its bold personality and darker profile, Nighthawk is the perfect super hero coffee. Not all super heroes wear capes. But they do drink Nighthawk.</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blend</s:tag>
+    <s:tag>Coffee-Sub</s:tag>
+    <s:tag>Dark Roast</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5607558906006</id>
+      <title>12oz</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5607558906006</id>
+      <title>5lbs</title>
+      <s:price currency="CAD">104.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/5600473743510</id>
+    <published>2020-08-11T15:29:30-04:00</published>
+    <updated>2020-08-11T15:29:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/cannon-espresso"/>
+    <title>Cannon Espresso</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/Cannon-Prod.jpg?v=1597174171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            19.00 - 104.00
+            <a href="https://anchoredcoffee.com/products/cannon-espresso">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product-price"></div>
+<div class="ProductItem-details-excerpt" data-content-field="excerpt">
+<p class="">If it’s the perfect every day espresso you are after, this is the coffee for you! Perfect for shots and milk drinks. Cannon goes boom with incredibly sweet and balanced notes of chocolate and almond.</p>
+<p class=""><strong>TASTING NOTES: </strong>BLACK CHERRY, ALMOND, BROWN SUGAR<br><strong>PROCESS: </strong>WASHED<br><strong>REGION: </strong>METAPAN, EL SALVADOR<br><strong>FARMER: </strong>VARIOUS SMALL FARMERS<br><strong>VARIETALS: </strong> HEIRLOOMS<br><strong>ALTITUDE: </strong>1100 - 1500 MASL</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee-Sub</s:tag>
+    <s:tag>Dark Roast</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5600473743510</id>
+      <title>12oz</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5600473743510</id>
+      <title>5lbs</title>
+      <s:price currency="CAD">104.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

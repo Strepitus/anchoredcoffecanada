@@ -1,0 +1,1214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://anchoredcoffee.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://anchoredcoffee.com/collections/clothing.atom"/>
+  <title>Anchored Coffee</title>
+  <updated>2020-12-11T12:59:27-05:00</updated>
+  <author>
+    <name>Anchored Coffee</name>
+  </author>
+  <entry>
+    <id>https://anchoredcoffee.com/products/6165745336501</id>
+    <published>2020-12-11T12:59:27-05:00</published>
+    <updated>2020-12-11T12:59:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/powered-by-positivity-t-shirt-white"/>
+    <title>Powered by Positivity t-shirt-White</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/BackWhite.jpg?v=1607709546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Available in 4 sizes </span><br></p>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6165745336501</id>
+      <title>S / White</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6165745336501</id>
+      <title>M / White</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6165745336501</id>
+      <title>L / White</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6165745336501</id>
+      <title>XL / White</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/6165744550069</id>
+    <published>2020-12-11T12:58:24-05:00</published>
+    <updated>2020-12-11T12:58:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/powered-by-positivity-t-shirt-black-1"/>
+    <title>Powered by Positivity t-shirt-Black</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/backblack.jpg?v=1607709484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Available in 4 sizes </span><br></p>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6165744550069</id>
+      <title>S / Black</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6165744550069</id>
+      <title>M / Black</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6165744550069</id>
+      <title>L / Black</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6165744550069</id>
+      <title>XL / Black</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/6146240512181</id>
+    <published>2020-12-11T12:57:29-05:00</published>
+    <updated>2020-12-11T12:57:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/powered-by-positivity-t-shirt"/>
+    <title>Powered by Positivity t-shirt-Red</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/IMG_4734.jpg?v=1607709391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Available in 4 sizes </span><br></p>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6146240512181</id>
+      <title>S / Red</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6146240512181</id>
+      <title>M / Red</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6146240512181</id>
+      <title>L / Red</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6146240512181</id>
+      <title>XL / Red</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/6165481029813</id>
+    <published>2020-12-11T10:07:51-05:00</published>
+    <updated>2020-12-11T10:07:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/more-butter-tee"/>
+    <title>More Butter Tee</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/IMG_20201211_105717.jpg?v=1607699252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">More Butter Tee<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6165481029813</id>
+      <title>S</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6165481029813</id>
+      <title>M</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6165481029813</id>
+      <title>L</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6165481029813</id>
+      <title>XL</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/6165475393717</id>
+    <published>2020-12-11T10:06:52-05:00</published>
+    <updated>2020-12-11T10:06:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/more-coffee-tee"/>
+    <title>More Coffee Tee</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/IMG_20201211_105713.jpg?v=1607699122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">More Coffee Tee<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6165475393717</id>
+      <title>S</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6165475393717</id>
+      <title>M</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6165475393717</id>
+      <title>L</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6165475393717</id>
+      <title>XL</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/6165473394869</id>
+    <published>2020-12-11T10:04:39-05:00</published>
+    <updated>2020-12-11T10:04:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/more-pizza-tee"/>
+    <title>More Pizza Tee</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/IMG_20201211_105710.jpg?v=1607699050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">More Pizza Tee<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6165473394869</id>
+      <title>S</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6165473394869</id>
+      <title>M</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6165473394869</id>
+      <title>L</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6165473394869</id>
+      <title>XL</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/6146237104309</id>
+    <published>2020-12-07T11:33:25-05:00</published>
+    <updated>2020-12-07T11:33:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/powered-by-positivity-tie-dye-tee"/>
+    <title>Powered by Positivity tie dye tee</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/IMG_4676.jpg?v=1607358753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6146237104309</id>
+      <title>S / tie dye</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6146237104309</id>
+      <title>M / tie dye</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6146237104309</id>
+      <title>L / tie dye</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6146237104309</id>
+      <title>XL / tie dye</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/6146235498677</id>
+    <published>2020-12-07T11:30:22-05:00</published>
+    <updated>2020-12-07T11:30:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/powered-by-positivity-hoodie"/>
+    <title>Powered by Positivity Hoodie</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/IMG_4752.jpg?v=1607358588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6146235498677</id>
+      <title>S / Black</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6146235498677</id>
+      <title>M / Black</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6146235498677</id>
+      <title>L / Black</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6146235498677</id>
+      <title>XL / Black</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/6146209185973</id>
+    <published>2020-12-07T11:02:05-05:00</published>
+    <updated>2020-12-07T11:02:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/stoked-on-christmas-long-sleeve-tee"/>
+    <title>Stoked on Christmas long sleeve tee</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/IMG_4711.jpg?v=1607356837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6146209185973</id>
+      <title>S / Black</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6146209185973</id>
+      <title>M / Black</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6146209185973</id>
+      <title>L / Black</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6146209185973</id>
+      <title>XL / Black</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/6146018803893</id>
+    <published>2020-12-07T08:22:38-05:00</published>
+    <updated>2020-12-07T08:22:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/classic-toque"/>
+    <title>Classic Toque</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/IMG_4663.jpg?v=1607347339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Classic toque with Anchored logo</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/6146018803893</id>
+      <title>Hunter orange</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/5998574993589</id>
+    <published>2020-10-28T09:15:26-04:00</published>
+    <updated>2020-10-28T09:15:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/waffle-knit-beanie"/>
+    <title>Waffle knit beanie</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Anchored Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/knithats.jpg?v=1608052072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We have searched high and low to find a great fitting, and cozy toque.  Here it is.  We are super stoked on this hat and we hope you are too.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5998574993589</id>
+      <title>Black</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5998574993589</id>
+      <title>Off White</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5998574993589</id>
+      <title>Teal</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5998574993589</id>
+      <title>Red</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/5699148808342</id>
+    <published>2020-09-08T10:04:58-04:00</published>
+    <updated>2020-09-08T10:04:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/anchored-coffee-mug"/>
+    <title>Anchored Coffee Mug</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Anchored Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/mug.png?v=1599573897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>goodies</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5699148808342</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/5646248870038</id>
+    <published>2020-08-25T09:33:12-04:00</published>
+    <updated>2020-08-25T09:33:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/nighthawk-tee"/>
+    <title>Nighthawk Tee</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/IMG_1051.jpg?v=1598362588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Treadwell clothing and Anchored coffee collaboration tee. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646248870038</id>
+      <title>S</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646248870038</id>
+      <title>M</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646248870038</id>
+      <title>L</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646248870038</id>
+      <title>XL</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/5646235205782</id>
+    <published>2020-08-25T09:21:23-04:00</published>
+    <updated>2020-08-25T09:21:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/treadwell-anchored-tee"/>
+    <title>Treadwell/Anchored Tee</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/IMG_0505.jpg?v=1598361763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Treadwell clothing and Anchored coffee collaboration tee. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646235205782</id>
+      <title>S</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646235205782</id>
+      <title>M</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646235205782</id>
+      <title>L</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646235205782</id>
+      <title>XL</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646235205782</id>
+      <title>XXL</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/5646230945942</id>
+    <published>2020-08-25T09:18:15-04:00</published>
+    <updated>2020-08-25T09:18:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/anchored-coffee-tote-bag-1"/>
+    <title>Anchored Coffee Tote Bag</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/Anchored_tote.jpg?v=1598361816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>The Ultimate Canvas Tote Bag</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646230945942</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/5646219247766</id>
+    <published>2020-08-25T09:07:40-04:00</published>
+    <updated>2020-08-25T09:07:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/anchored-coffee-logo-fabric-hats"/>
+    <title>Anchored Coffee Logo Fabric Hats</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/Circle_logo.jpg?v=1598360900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>These hats are cuter than a puppy on roller skates.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646219247766</id>
+      <title>Baby Blue</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646219247766</id>
+      <title>Pink</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646219247766</id>
+      <title>Butter Yellow</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646219247766</id>
+      <title>John Deer Green</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/5646217773206</id>
+    <published>2020-08-25T09:06:45-04:00</published>
+    <updated>2020-08-25T09:06:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/classic-dad-hat"/>
+    <title>Classic Dad Hat</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/dad_hat.jpg?v=1598361788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Jean ball cap with embroidered Anchored Coffee logo</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646217773206</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/5646214267030</id>
+    <published>2020-08-25T09:03:41-04:00</published>
+    <updated>2020-08-25T09:03:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/anchored-coffee-tote-bag"/>
+    <title>Anchored Coffee Tote Bag</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/IMG_9993.jpg?v=1598361976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The ultimate canvas tote bag.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646214267030</id>
+      <title>Teal</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646214267030</id>
+      <title>Teal and Red</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646214267030</id>
+      <title>Black</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/5646187200662</id>
+    <published>2020-08-25T08:44:52-04:00</published>
+    <updated>2020-08-25T08:44:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/anchored-coffee-tee"/>
+    <title>Anchored Coffee Tee</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/tshirt_front.jpg?v=1598359534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Available in 4 sizes and 4 colors.</span><br></p>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646187200662</id>
+      <title>S / Black</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646187200662</id>
+      <title>S / Grey</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646187200662</id>
+      <title>S / Off White</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646187200662</id>
+      <title>S / Pink</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646187200662</id>
+      <title>M / Black</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646187200662</id>
+      <title>M / Grey</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646187200662</id>
+      <title>M / Off White</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646187200662</id>
+      <title>M / Pink</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646187200662</id>
+      <title>L / Black</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646187200662</id>
+      <title>L / Grey</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646187200662</id>
+      <title>L / Off White</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646187200662</id>
+      <title>L / Pink</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646187200662</id>
+      <title>XL / Black</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646187200662</id>
+      <title>XL / Grey</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646187200662</id>
+      <title>XL / Off White</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5646187200662</id>
+      <title>XL / Pink</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/5628485238934</id>
+    <published>2020-08-19T08:46:11-04:00</published>
+    <updated>2020-08-19T08:46:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/mesh-hat"/>
+    <title>Mesh Hat</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/mesh_hat.jpg?v=1597841023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Mesh ball cap with Anchored Coffee Logo Patch</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5628485238934</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchoredcoffee.com/products/5628484518038</id>
+    <published>2020-08-19T08:40:31-04:00</published>
+    <updated>2020-08-19T08:40:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchoredcoffee.com/products/anchored-coffee-unicorn-fabric-hats"/>
+    <title>Anchored Coffee Unicorn Fabric Hats</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Anchored Coffee Dartmouth</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0417/4721/8582/products/IMG_1087.jpg?v=1597840832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anchored Coffee Dartmouth<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>These hats are cuter than a puppy on roller skates.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5628484518038</id>
+      <title>Baby Blue</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5628484518038</id>
+      <title>Pink</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5628484518038</id>
+      <title>Butter Yellow</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchoredcoffee.com/products/5628484518038</id>
+      <title>John Deer Green</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
